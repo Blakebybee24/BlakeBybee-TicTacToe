@@ -1,0 +1,15 @@
+C:\Users\blake\c#\BlakeBybee-TicTacToe\bin\Debug\net6.0\BlakeBybee-TicTacToe.exe
+C:\Users\blake\c#\BlakeBybee-TicTacToe\bin\Debug\net6.0\BlakeBybee-TicTacToe.deps.json
+C:\Users\blake\c#\BlakeBybee-TicTacToe\bin\Debug\net6.0\BlakeBybee-TicTacToe.runtimeconfig.json
+C:\Users\blake\c#\BlakeBybee-TicTacToe\bin\Debug\net6.0\BlakeBybee-TicTacToe.dll
+C:\Users\blake\c#\BlakeBybee-TicTacToe\bin\Debug\net6.0\BlakeBybee-TicTacToe.pdb
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.csproj.AssemblyReference.cache
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.AssemblyInfoInputs.cache
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.AssemblyInfo.cs
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.dll
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\refint\BlakeBybee-TicTacToe.dll
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.pdb
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\BlakeBybee-TicTacToe.genruntimeconfig.cache
+C:\Users\blake\c#\BlakeBybee-TicTacToe\obj\Debug\net6.0\ref\BlakeBybee-TicTacToe.dll
